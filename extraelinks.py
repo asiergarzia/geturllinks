@@ -33,17 +33,4 @@ with open('video_links.txt', 'w', encoding="utf-8") as f_output:
                 f_output.write(base + coincidencias.group(0) + "\n")
         else:
             repit = - 1
-Footer
-© 2023 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
+
